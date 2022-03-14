@@ -1,17 +1,50 @@
 {
-  "posts": [
+  "employee": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "Dinesh sharma",
+      "age": "25",
+      "address": "Bhagalpur",
+      "department": "manager",
+      "salary": "22000",
+      "married": "",
+      "id": 1
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Amit Kumar",
+      "age": "24",
+      "address": "Bhagalpur",
+      "department": "employee",
+      "salary": "21000",
+      "married": "",
+      "id": 2
+    },
+    {
+      "name": "Neha Kumari",
+      "age": "23",
+      "address": "Kahalgaon",
+      "department": "employee",
+      "salary": "12000",
+      "married": "",
+      "id": 3
+    },
+    {
+      "name": "Rohan kumar",
+      "age": "21",
+      "address": "Patna",
+      "department": "employee",
+      "salary": "23400",
+      "married": "",
+      "id": 4
+    },
+    {
+      "name": "dino",
+      "age": "111",
+      "address": "dhaoura",
+      "department": "manager",
+      "salary": "2222",
+      "married": "",
+      "id": 5
     }
-  ],
-  "tasks": []
+    
+  ]
 }
