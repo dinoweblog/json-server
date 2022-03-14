@@ -26,24 +26,6 @@
       "salary": "12000",
       "married": "",
       "id": 3
-    },
-    {
-      "name": "Rohan kumar",
-      "age": "21",
-      "address": "Patna",
-      "department": "employee",
-      "salary": "23400",
-      "married": "",
-      "id": 4
-    },
-    {
-      "name": "dino",
-      "age": "111",
-      "address": "dhaoura",
-      "department": "manager",
-      "salary": "2222",
-      "married": "",
-      "id": 5
     }
     
   ]
