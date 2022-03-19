@@ -1,32 +1,9 @@
 {
   "employee": [
-    {
-      "name": "Dinesh sharma",
-      "age": "25",
-      "address": "Bhagalpur",
-      "department": "manager",
-      "salary": "22000",
-      "married": "",
-      "id": 1
-    },
-    {
-      "name": "Amit Kumar",
-      "age": "24",
-      "address": "Bhagalpur",
-      "department": "employee",
-      "salary": "21000",
-      "married": "",
-      "id": 2
-    },
-    {
-      "name": "Neha Kumari",
-      "age": "23",
-      "address": "Kahalgaon",
-      "department": "employee",
-      "salary": "12000",
-      "married": "",
-      "id": 3
-    }
-    
+  
+  ],
+
+  "todos": [
   ]
+
 }
